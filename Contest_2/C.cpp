@@ -1,0 +1,1 @@
+// dados n valores encontrar quantos triangulos podem ser formados, pode ser que seja bt mas não tenho ctz
